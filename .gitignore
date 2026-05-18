@@ -1,0 +1,16 @@
+
+
+# Claude Code CLI
+.claude/
+CLAUDE.md
+.claudeignore
+
+# Claude Dev / Cline / Roo Code (VS Code Extensions)
+.cline/
+.roo/
+.clineignore
+.rooignore
+.clinerules
+.roorules
+cline_docs/
+roo_docs/
